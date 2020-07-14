@@ -368,4 +368,4 @@ static void decipher(unsigned char *src_file, unsigned char *dst_file)
 	fclose(udata);	
 	exit(EXIT_SUCCESS);
 }
-/* END guys */
+/* END guys :) */
